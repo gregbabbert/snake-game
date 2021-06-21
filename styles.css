@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(0, 5, 54);
+}
+
+.game-container {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    height: 40em;
+    width: 60em;
+    top: 50%;
+    left: 50%;
+    margin: -20em 0 0 -30em;
+}
+
+.snake {
+    background-color: rgb(115, 255, 115);
+    position: absolute;
+    height: 1em;
+    width: 1em;
+    top: 50%;
+    left: 50%;
+    margin: -.5em 0 0 -.5em;
+}
